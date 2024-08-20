@@ -1,4 +1,3 @@
-## Hi, soy Lucero 👋
 
 
 <!--
