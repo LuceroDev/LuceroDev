@@ -1,35 +1,40 @@
-# Hi, I´m Lucero Soariano
+# Hi, I am Lucero Soariano
 
 ### Data Analyst Jr
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="DA.gif" width="300"/>
 
-Soy una desarrolladora con experiencia en tecnologías full stack, con un fuerte enfoque en cómo la tecnología puede impactar positivamente en la sociedad. Estoy en constante aprendizaje y me apasiona el análisis de datos. Busco seguir creciendo en una compañía que comparta mi visión y donde pueda aportar y desarrollarme profesionalmente.
+
+Apasionada por los datos y la economía, siempre en busca de nuevas formas de entender el mundo. ¡Curiosa y lista para todos los desafíos que vengan!
 
 ---
 
 ### 🔧 Tecnologías y Herramientas:
-- **Lenguajes de Programación:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express
-- **Bases de Datos:** MySQL, MongoDB, SQLite
-- **Herramientas de Análisis de Datos:** Python (Pandas, Matplotlib, Seaborn), Excel, Tableau
+- **Lenguajes de Programación:** Python, SQL
+- **Bases de Datos:** MySQL
+- **Herramientas de Análisis de Datos:** Python (Pandas, NumPy, Matplotlib, Seaborn), Excel
 - **Control de Versiones:** Git, GitHub
 
-### 📝 Últimos Proyectos:
+<!--### 📝 Últimos Proyectos:
 1. **[Proyecto de Análisis de Sentimientos](#):** Análisis de opiniones en redes sociales utilizando Python y Google Colab.
 2. **[Encriptador de Texto](#):** Aplicación web para encriptar y desencriptar mensajes, desarrollada en JavaScript, HTML y CSS.
-3. **[Juego del Número Secreto](#):** Juego interactivo desarrollado durante el curso de lógica de programación en JavaScript.
+3. **[Juego del Número Secreto](#):** Juego interactivo desarrollado durante el curso de lógica de programación en JavaScript. -->
 
 ### 🌱 Actualmente Aprendiendo:
-- **React y Desarrollo Frontend Avanzado**
-- **Análisis de Datos con Python**
-- **Inglés Técnico para Desarrolladores**
+- **Power BI**
+- **Inglés**
 
-### 🌍 Conecta Conmigo:
-- **[LinkedIn](#)**
-- **[Twitter](#)**
+### 📫 ¡Conecta Conmigo!
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucero-soriano-rosajel-/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+    </p>
+
+<!--- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/lucero-soriano-rosajel-/)
+- **Correo:** lucero.rosajel@gmail.com -->
 
 ---
 
