@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Lucero Soariano</h1>
-<h2 align="left">Jr Full Stack Developer & Data Analyst in Progress</h2>
+<h1 align="left"> Hi, I´m Lucero Soariano</h1>
+<h2 align="left">Data Analyst Jr</h2>
 
 <table>
 <tr>
 <td style="background-color:#f0f0f0; padding: 15px;">
 
 ### 🌟 Sobre mí
-Soy una desarrolladora web con un enfoque en análisis de datos, apasionada por aprender y aplicar nuevas tecnologías.
+Análista de datos, apasionada por aprender y aplicar nuevas tecnologías.
 
 ### 🔧 Tecnologías
-- JavaScript | Python | R | SQL | HTML | CSS
-- React | Node.js
+| Python | SQL | HTML |
 
 ### 🚀 Proyectos
 - **Análisis de datos en Python**
