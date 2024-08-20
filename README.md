@@ -1,7 +1,3 @@
-
-<h1 align="left"> Hi, I´m Lucero Soariano</h1>
-<h2 align="left">Data Analyst Jr</h2>
-
 # Hi, I´m Lucero Soariano
 
 ### Data Analyst Jr
