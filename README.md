@@ -11,10 +11,10 @@ Passionate about data and economics, always looking for new ways to understand t
 
 ---
 ### About me
-🔭 I'm currently working on improving my skills on time series projects.
-🌱 Learning how to make awesome graphs with Plotly.
-👯 I'm open to collaborating on data projects on any topic, as I'm very curious and love exploring new areas.
-📷 Fun fact: I love documenting my outdoor adventures with my camera.
+- 🔭 I'm currently working on improving my skills on time series projects.
+- 🌱 Learning how to make awesome graphs with Plotly.
+- 👯 I'm open to collaborating on data projects on any topic, as I'm very curious and love exploring new areas.
+- 📷 Fun fact: I love documenting my outdoor adventures with my camera.
 
 ### 🔧 Technologies and Tools:
 - **Programming Languages:** Python, SQL
