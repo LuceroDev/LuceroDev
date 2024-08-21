@@ -40,9 +40,11 @@ Passionate about data and economics, always looking for new ways to understand t
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
     </p>
+    <p align="left">
     <a href="https://www.hackerrank.com/profile/lu0sorjel" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
+      </p>
 
 <!--- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/lucero-soriano-rosajel-/)
 - **Correo:** lucero.rosajel@gmail.com -->
